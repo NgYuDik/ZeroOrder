@@ -36,7 +36,7 @@
 
 **3. Put on and off the shelves.**
 
-**4. Set and modify product prices.****
+**4. Set and modify product prices.**
 
 **5. Process refunds.**
 
