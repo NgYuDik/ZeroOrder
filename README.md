@@ -43,7 +43,7 @@
 **6. Generate a seat QR code or order QR code.**
 
 
-**Please note: This project does not have a payment function. Only the corresponding interface is provided for development. Users can import the corresponding payment plug-in to facilitate the improvement of the payment function. (For plug-in development documents).**
+**Please note: This project does not have a payment function. Only the corresponding interface is provided for development. Users can import the corresponding payment plug-in to facilitate the improvement of the payment function. (Attached with plugin development documentation).**
 
 ## Ad:
 None.
